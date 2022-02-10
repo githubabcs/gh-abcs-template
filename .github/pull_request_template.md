@@ -1,11 +1,3 @@
----
-name: Pull request
-about: Open a pull request from a checklist template
-title: ''
-labels: ''
-assignees: ''
----
-
 ### Your checklist for this pull request
 Please review the [guidelines for contributing](../../CONTRIBUTING.md) to this repository.
 
