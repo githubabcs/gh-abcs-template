@@ -10,6 +10,5 @@ Please review the [guidelines for contributing](../../CONTRIBUTING.md) to this r
 Please describe your pull request.
 - 
 - 
-- 
 
 👍Thank you!
