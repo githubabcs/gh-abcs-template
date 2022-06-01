@@ -1,2 +1,7 @@
+_extends: githubabcs/gh-abcs-bot
 config1: true
-config2: Default
+config2: Default Repo
+other: Configuration
+complex:
+  setting1: true
+  setting2: false
